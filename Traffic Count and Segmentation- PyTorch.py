@@ -88,3 +88,5 @@ def predict(img_path, cuda = True):
     
     #print the total number of vehicles found
     print(f"Vehicle Count: {n_vehicles}")
+    
+predict("", cuda = False) # ADD INSIDE THE QUOTES YOUR IMAGE PATH
