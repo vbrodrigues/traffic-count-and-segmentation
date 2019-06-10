@@ -2,6 +2,8 @@
 
 Using PyTorch to detect and localize vehicles in an image and count the traffic.
 
+Utilized the pre-trained model from torchvision of Mask R-CNN.
+
 ## Dependencies:
 
   ● torch - version 1.1
